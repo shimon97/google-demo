@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #202124e8;
+  color: #bdc1c6;
+}
+
+input {
+  color: white !important;
+  border: white !important;
+}

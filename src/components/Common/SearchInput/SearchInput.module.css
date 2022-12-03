@@ -1,0 +1,9 @@
+.searchAutocomplete {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.searchIcon {
+ cursor: pointer;  
+ color: white !important; 
+}

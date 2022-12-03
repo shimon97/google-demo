@@ -1,0 +1,11 @@
+.title {
+    margin: 0;
+    color: #4d87e4;
+    cursor: pointer;
+    text-decoration: underline;
+    width: fit-content;
+}
+
+.description {
+    margin-top: 0;
+}
